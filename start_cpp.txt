@@ -1,0 +1,11 @@
+Connect www.winlibs.com
+Download the latest version of GCC
+Extract GCC compressed file
+Copy them to C:\mingw64
+Go to Environment variables
+Edit environment variable
+New "C:\mingw64\bin" to Path variable
+Go to "cmd"
+Type "g++ --version" or "gcc --version" to check the version of your C language
+Install Visual Studio Code
+Install extensions "C/C++"
